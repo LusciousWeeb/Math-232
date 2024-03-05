@@ -51,4 +51,4 @@ hexagon_3 = hexagon_3 * change_xrefl
 hexagon_4 = hexagon_4 * change_xrefl
 hexagon_5 = hexagon_5 * change_xrefl
 hexagon_6 = hexagon_6 * change_xrefl
-%%
+%% Q 3
